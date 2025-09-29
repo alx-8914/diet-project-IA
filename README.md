@@ -99,7 +99,7 @@ cd web
 npm run dev
 ```
 
-O backend estará rodando em `http://localhost:3001` e o frontend em `http://localhost:3000`.
+O backend estará rodando em `http://localhost:3333` e o frontend em `http://localhost:3000`.
 
 ## 🎯 Como Usar
 
@@ -191,3 +191,4 @@ Desenvolvido com ❤️ para ajudar pessoas a terem uma alimentação mais saud�
 ---
 
 ⭐ **Se este projeto te ajudou, não esqueça de dar uma estrela!**
+
